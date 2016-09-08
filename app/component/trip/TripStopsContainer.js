@@ -1,6 +1,5 @@
 import React from 'react';
 import Relay from 'react-relay';
-import ReactCSSTransitionGroup from 'react-addons-css-transition-group';
 
 import { getStartTime } from '../../util/time-utils';
 import TripListHeader from './TripListHeader';
